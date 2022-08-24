@@ -118,6 +118,7 @@ nav h2 {
   }
   .journal--left img {
     min-width: 100%;
+    height: 260px;
   }
 }
 
